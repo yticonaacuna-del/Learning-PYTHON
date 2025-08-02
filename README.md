@@ -1,0 +1,1 @@
+Voy a resolver ejercicios de Python, quiero practicar lógica, y pasarme a base de datos y empezar a conectar todo. Además puede que python se convierta en mi lenguaje de bakend en el futuro tendre que dedicar tiempo al web developer que también quiero hacer eso, pero por ahorita debo enfocarme en Python - GIT, nada más.
